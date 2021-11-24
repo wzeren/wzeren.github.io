@@ -1,2 +1,3 @@
 name: Zeren Simon Wang
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
